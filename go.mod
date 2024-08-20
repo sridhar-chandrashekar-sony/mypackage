@@ -1,3 +1,3 @@
-module github.com/avishek-nayal-sony/mypackage
+module github.com/sridhar-chandrashekar-sony/mypackage
 
 go 1.22.4
